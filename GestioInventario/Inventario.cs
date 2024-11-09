@@ -29,5 +29,16 @@ namespace GestioInventario
                  .OrderBy(p => p.Precio);
         }
 
+        public bool ActualizarPrecioProductos(string nombre, decimal nuevoPrecio)
+        {
+            var producto = productos.FirstOrDefault(p => p.Nombre.Equals(nombre, StringComparison.OrdinalIgnoreCase));
+            if (producto != null)
+            {
+                producto.Precio = nuevoPrecio;
+                return true;
+            }
+            return false;
+        }
+
     }
 }
