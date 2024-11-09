@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Escritorio\GitRepositorio\GestioInventario\bin\Debug\net8.0\GestioInventario.exe
+C:\Users\ferna\OneDrive\Escritorio\GitRepositorio\GestioInventario\bin\Debug\net8.0\GestioInventario.deps.json
+C:\Users\ferna\OneDrive\Escritorio\GitRepositorio\GestioInventario\bin\Debug\net8.0\GestioInventario.runtimeconfig.json
+C:\Users\ferna\OneDrive\Escritorio\GitRepositorio\GestioInventario\bin\Debug\net8.0\GestioInventario.dll
+C:\Users\ferna\OneDrive\Escritorio\GitRepositorio\GestioInventario\bin\Debug\net8.0\GestioInventario.pdb
+C:\Users\ferna\OneDrive\Escritorio\GitRepositorio\GestioInventario\obj\Debug\net8.0\GestioInventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Escritorio\GitRepositorio\GestioInventario\obj\Debug\net8.0\GestioInventario.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Escritorio\GitRepositorio\GestioInventario\obj\Debug\net8.0\GestioInventario.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Escritorio\GitRepositorio\GestioInventario\obj\Debug\net8.0\GestioInventario.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Escritorio\GitRepositorio\GestioInventario\obj\Debug\net8.0\GestioInventario.sourcelink.json
+C:\Users\ferna\OneDrive\Escritorio\GitRepositorio\GestioInventario\obj\Debug\net8.0\GestioInventario.dll
+C:\Users\ferna\OneDrive\Escritorio\GitRepositorio\GestioInventario\obj\Debug\net8.0\refint\GestioInventario.dll
+C:\Users\ferna\OneDrive\Escritorio\GitRepositorio\GestioInventario\obj\Debug\net8.0\GestioInventario.pdb
+C:\Users\ferna\OneDrive\Escritorio\GitRepositorio\GestioInventario\obj\Debug\net8.0\GestioInventario.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Escritorio\GitRepositorio\GestioInventario\obj\Debug\net8.0\ref\GestioInventario.dll
