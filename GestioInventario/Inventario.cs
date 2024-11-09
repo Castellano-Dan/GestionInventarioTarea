@@ -16,6 +16,18 @@ namespace GestioInventario
             productos = new List<Producto>();
         }
 
-       
+        public void AgregarProducto(Producto producto)
+        {
+            productos.Add(producto);
+        }
+
+        public IEnumerable<Producto> FiltrarYOrdenarProductos(decimal precioMinimo)
+        {
+            
+            return productos
+             .Where(p => p.Precio > precioMinimo)
+                 .OrderBy(p => p.Precio);
+        }
+
     }
 }
